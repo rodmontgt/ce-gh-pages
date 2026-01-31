@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rodmontgt.github.io/ce-gh-pages/sitemap.xml

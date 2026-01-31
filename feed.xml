@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Comercio Electrónico</title>
+    <link href="https://rodmontgt.github.io/ce-gh-pages/feed.xml" rel="self" />
+    <link href="https://rodmontgt.github.io/ce-gh-pages" />
+    <updated>1969-12-31T18:00:00-06:00</updated>
+    <author>
+        <name>Ronald Montenegro</name>
+    </author>
+    <id>https://rodmontgt.github.io/ce-gh-pages</id>
+
+</feed>
